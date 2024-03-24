@@ -1,14 +1,14 @@
 # Programmieren II
 
 
-Herzlich willkommen zur **Programmieren II**-Veranstaltung! Sie haben in [Programmieren I](https://freiheit.f4.htw-berlin.de/prog1) unter Verwendung der Programmiersprache Java bereits wesentliche Konzepte kennengelernt, die für das Verständnis moderner Programmierens notwendig sind. Diese Kenntnisse wollen wir nun erweitern und vertiefen. Wir werden Git kennenlernen, Exceptions, Wrapper-Klassen, Interfaces und Collections. Wir beschäftigen uns intensiv mit dem Testen von Programmen und erzeugen uns eigene Nutzeroberflächen. Hier einige Tipps, damit Sie die Veranstaltung erfolgreich durchführen und Sie dabei auch Spaß haben:
+Herzlich willkommen zur **Programmieren II**-Veranstaltung! Sie haben in [Programmieren I](https://freiheit.f4.htw-berlin.de/prog1) unter Verwendung der Programmiersprache Java bereits wesentliche Konzepte kennengelernt, die für das Verständnis moderner Programmierens notwendig sind. Diese Kenntnisse wollen wir nun erweitern und vertiefen. Wir werden Git kennenlernen, Exceptions, Wrapper-Klassen, Interfaces und Collections. Wir beschäftigen uns intensiv mit dem Testen von Programmen und werden eine REST-API bauen. Hier einige Tipps, damit Sie die Veranstaltung erfolgreich durchführen und Sie dabei auch Spaß haben:
 
 1. Lösen Sie alle Übungsaufgaben selbständig! Es ist kein Problem, wenn Sie für das Bewältigen der Übungen etwas länger benötigen. Sollten Sie es gar nicht alleine schaffen, ist das auch kein Problem. Wichtig ist dann, dass Sie sich die Lösung anschauen und es erneut selbständig versuchen. Hören Sie nicht auf, bis Sie es geschafft haben!
 2. Sie können die Hausaufgaben zu zweit lösen. Achten Sie aber darauf, dass Sie Ihre gemeinsame Lösung vollständig verstanden haben und dass Sie sie danach auch alleine erstellen können. Sie können beim Lösen der Hausaufgaben beliebig kreativ sein! Die Aufgabenstellung gibt Ihnen Anhaltspunkte für eine eventuelle Lösung. Sie können es aber auch ganz anders machen!
 3. Die Klausurvorbereitung beginnt mit Beginn der Veranstaltung. Es ist nicht möglich, die Klausur am Ende des Semesters zu bestehen, wenn Sie nicht das ganze Semester über intensiv programmieren. Die Übungsaufgaben sind "kleine" Aufgaben, um das in der Vorlesung vermittelte Wissen direkt anzuwenden. Für die Lösung der Hausaufgaben ist bereits ein gewisses Abstraktionsniveau erforderlich, um zu erkennen, dass das in der Vorlesung vermittelte Wissen dafür ausreichend ist.
 4. Programmieren lernt man nur durch Programmieren. Sie müssen es tun. Das Lesen von Büchern oder das "Anschauen" von Code genügt nicht. Eine Sprache lernt man auch nur durch Sprechen. Sie müssen programmieren, programmieren, programmieren...
 5. Lassen Sie sich durch Fehler nicht verunsichern, sondern analysieren Sie Ihre Fehler. Bis zur Klausur sollten Sie alle Fehler einmal gemacht haben. Wenn Sie sich überlegen, warum das jeweils ein Fehler war, dann werden Sie diesen Fehler nicht wiederholen und haben durch die Reflektion eine Menge gelernt. Fehler zu machen (und darüber zu reflektieren) gehört zu den besten Lernmethoden des Programmierens.
-6. Haben Sie Spaß! Je mehr Sie das Programmieren lernen, je mehr Spaß werden Sie haben. Wir versuchen, dass Sie das ganze Semester über Spaß am Programmieren haben werden. Sollte es Ihnen zwischendurch keinen Spaß mehr machen, geben Sie mir sofort Bescheid!
+6. Haben Sie Spaß! Je mehr Sie das Programmieren lernen, je mehr Spaß werden Sie haben. Wir versuchen, dass Sie das ganze Semester über Spaß am Programmieren haben werden. 
 
 Viel Erfolg! Und viel Spaß!
 
@@ -38,24 +38,25 @@ Wir beschäftigen uns dieses Semester mit weiteren Konzepten der Programmierung.
 
 Nachfolgend der vorläufige Wochenplan (wird eventuell angepasst).
 
-| | Woche | Themen (Vorlesung) | Übung | Aufgabe | Abgabe Aufgabe bis | 
-|-|-------|--------------------|-------|-----------------|------------------|
-| 1. | 10.-14.04.2023 | [Organisatorisches](#organisatorisches), [Wiederholung](wiederholung.md#datentypen), [Aufzählungstypen](enum.md#aufzahlungstypen-enum), [Einstieg](einstieg.md#einstieg) | - | - | - | 
-| 1. | 17.-21.04.2023 | [Wrapper-Klassen (boxing und unboxing)](wrapper.md#wrapper-klassen)<br/>[Exceptions I](exceptions.md#exceptions)| [Übung 1](uebungen.md#ubung-1-wiederholung-und-codereview) |[Aufgabe 1](aufgaben.md#aufgabe-1-wurfelspiel) | 27.04.2023 | 
-| 2. | 24.-28.04.2023 | [Exceptions II](exceptions.md#die-vererbungshierarchie-der-klasse-exception) | [Übung 2](uebungen.md#ubung-2-string-und-algorithmisches-denken) |[Aufgabe 2](aufgaben.md#aufgabe-2-myinteger) | 04.05.2023 | 
-| 3. | 01.-05.05.2023 | [Collections (List und Set)](collections.md#collections) | [Übung 3](uebungen.md#ubung-3-exceptions) |[Aufgabe 3](aufgaben.md#aufgabe-3-solitaire) | 18.05.2023 | 
-| 4. | 08.-12.05.2023 | [Collections (Map)](maps.md#maps) und [Abstrakte Klassen](abstrakt.md#abstrakte-klassen)| [Übung 4](uebungen.md#ubung-4-listen-und-mengen) |[Aufgabe 4](aufgaben.md#aufgabe-4-operationen-uber-mengen) | 25.05.2023 | 
-| 5. | 15.-19.05.2023 | - | - | - | - | 
-| 6. | 22.-26.05.2023 | [Interfaces](interfaces.md#interfaces) | [Übung 5](uebungen.md#ubung-5-maps) |[Aufgabe 5](aufgaben.md#aufgabe-5-maps) | 01.06.2023 | 
-| 7. | 29.-02.06.2023 | [GUI Einführung](gui.md#graphical-user-interfaces) | [Übung 6](uebungen.md#ubung-6-interfaces) |[Aufgabe 6](aufgaben.md#aufgabe-6-interfaces) | 08.06.2023 | 
-| 8. | 05.-09.06.2023 | [GUI Ereignisse](ereignisse.md#ereignisse) | [Übung 7](uebungen.md#ubung-7-gui) |[Aufgabe 7](aufgaben.md#aufgabe-7-gui) | 15.06.2023 | 
-| 9. | 12.-16.06.2023 | [ActionListener](ereignisse.md#erstes-beispiel-actionlistener)  | [Übung 8](uebungen.md#ubung-8-ereignisbehandlung-actionlistener) |[Aufgabe 8](aufgaben.md#aufgabe-8-ereignisbehandlung) | 22.06.2023 | 
-| 10. | 19.-23.06.2023 | [Mausereignisse](mausereignisse.md#mausereignisse) | [Übung 9](uebungen.md#ubung-9-tictactoe) |[Aufgabe 9](aufgaben.md#aufgabe-9-schiebepuzzle) | 29.06.2023 | 
-| 12. | 26.-30.06.2023 | [Graphics](graphics.md#graphics) | [Übung 10](uebungen.md#ubung-10-zeichnen) | [Aufgabe 10](aufgaben.md#aufgabe-10-zeichnen) | 06.07.2023 |
-| 13. | 03.-07.07.2023 | [Zeichnen mit der Maus](mausereignisse_graphics.md#mausereignisse) | [Übung 11](uebungen.md#ubung-11-mausereignisse) | - | - |
-| 14. | 10.-14.07.2023 | REST-API mit SpringBoot| Übung 12 | - | - |
-|  | 28.07.2023 12:00 Uhr| Klausur 1.PZ | C 635 und C 639| - | - |
-|  | 29.09.2023 12:00 Uhr| Klausur 2.PZ | Labore 6. Etage C-Gebäude| - | - |
+|     | Woche                     | Themen (Vorlesung) | Übung                                                        | Aufgabe | Abgabe Aufgabe bis | 
+|-----|---------------------------|--------------------|--------------------------------------------------------------|-----------------|------------------|
+| 1.  | 9.04.2023                 | [Organisatorisches](#organisatorisches), [Wiederholung](wiederholung.md#datentypen), [Aufzählungstypen](enum.md#aufzahlungstypen-enum), [Einstieg](einstieg.md#einstieg) | -                                                            | - | - | 
+| 1.  | 16.04.2023                | [Wrapper-Klassen (boxing und unboxing)](wrapper.md#wrapper-klassen)<br/>[Exceptions I](exceptions.md#exceptions)| [Übung 1](uebungen.md#ubung-1-wiederholung-und-codereview)   |[Aufgabe 1](aufgaben.md#aufgabe-1-wurfelspiel) | 27.04.2023 | 
+| 2.  | 23.04.2023                | [Exceptions II](exceptions.md#die-vererbungshierarchie-der-klasse-exception) | [Übung 2](uebungen.md#ubung-2-string-und-algorithmisches-denken) |[Aufgabe 2](aufgaben.md#aufgabe-2-myinteger) | 04.05.2023 | 
+| 3.  | 30.04.2023                | [Collections (List und Set)](collections.md#collections) | [Übung 3](uebungen.md#ubung-3-exceptions)                    |[Aufgabe 3](aufgaben.md#aufgabe-3-solitaire) | 18.05.2023 | 
+| 4.  | 7.05.2023                 | [Collections (Map)](maps.md#maps) und [Abstrakte Klassen](abstrakt.md#abstrakte-klassen)| [Übung 4](uebungen.md#ubung-4-listen-und-mengen)             |[Aufgabe 4](aufgaben.md#aufgabe-4-operationen-uber-mengen) | 25.05.2023 | 
+| 5.  | 14.05.2023                | [Interfaces](interfaces.md#interfaces) | [Übung 5](uebungen.md#ubung-5-maps)                          |[Aufgabe 5](aufgaben.md#aufgabe-5-maps) | 01.06.2023 |
+| 6.  | 21.05.2023                | - | -                                                            | - | - | 
+| 7.  | 28.05.2023                | - | -                                                            | - | - | 
+| 8.  | 4.06.2023                 | - | -                                                            | - | - |  
+| 9.  | 11.06.2023                | - | -                                                            | - | - |  
+| 10. | 18.06.2023                | - | -                                                            | - | - |  
+| 12. | 25.06.2023                | - | -                                                            | - | - | 
+| 13. | 03.07.2023                | - | -                                                            | - | - | 
+| 14. | 10.07.2023                | - | -                                                            | - | - | 
+| 15. | 17.07.2023                | - | -                                                            | - | - | 
+|     | wird noch bekannt gegeben | Klausur 1.PZ | Labore 6. Etage C-Gebäude            | - | - |
+|     | wird noch bekannt gegeben | Klausur 2.PZ | Labore 6. Etage C-Gebäude            | - | - |
 
 ### Inhalte
 
