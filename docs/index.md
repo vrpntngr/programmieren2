@@ -16,11 +16,12 @@ Viel Erfolg! Und viel Spaß!
 
 Der Plan zur Durchführung der Veranstaltung ist derzeit wie folgt:
 
-- Themen werden ausführlich in diesem Skript beschrieben und in den Vorlesungen eingeführt und verdeutlicht.
+- Einige der Themen werden ausführlich in diesem Skript beschrieben und in den Vorlesungen eingeführt und verdeutlicht.
+- Für die anderen Themen werden sie Skripte kürzer ausfallen und dafür mich Links vervollständigt.  
 - Die Veranstaltungen finden in Präsenz statt. Es werden keine Videos erstellt.
-- Das Skript wird für die jeweils kommende Woche freitags hochgeladen.
-- Mit dem Skript wird sowohl die Übung für die kommende Woche als auch die neue Aufgabe hochgeladen.
-- Die Übung (und die vergangene Aufgabe) werden donnerstags (8 - 9.30 bzw. 14-15.30 Uhr) besprochen. Sie können frei wählen, welche der beiden Übungen Sie besuchen.
+- Das Skript wird für die jeweilige Woche montags hochgeladen.
+- Mit dem Skript wird sowohl die Übung für die Woche als auch die neue Aufgabe hochgeladen.
+- Die Übung (und die vergangene Aufgabe) werden dienstags (09:45 - 11:15 bzw. 12:15 - 13:45 Uhr) besprochen. Sie können frei wählen, welche der beiden Übungen Sie besuchen.
 - Die Veranstaltung wird durch ein Tutorium unterstützt. Der Termin für das Tutorium wird noch bekanntgegeben.
 - Sollten Sie Wünsche haben, diesen Plan zu ändern, kommen Sie gerne auf mich zu
 
@@ -36,11 +37,11 @@ Für die Kommunikation untereinander verwenden wir [**Slack**](https://slack.com
 
 Wir beschäftigen uns dieses Semester mit weiteren Konzepten der Programmierung. Wir lernen weitere Datenstrukturen kennen (Collections), werden lernen, mit Exceptions umzugehen und implementieren Tests. Wir beschäftigen uns mit Grafischen Nutzeroberflächen (GUIs) und lernen, Nutzereignisse zu behandeln.
 
-Nachfolgend der vorläufige Wochenplan (wird eventuell angepasst).
+Nachfolgend der vorläufige Wochenplan (wird angepasst).
 
 |     | Woche                     | Themen (Vorlesung) | Übung                                                        | Aufgabe | Abgabe Aufgabe bis | 
 |-----|---------------------------|--------------------|--------------------------------------------------------------|-----------------|------------------|
-| 1.  | 9.04.2023                 | [Organisatorisches](#organisatorisches), [Wiederholung](wiederholung.md#datentypen), [Aufzählungstypen](enum.md#aufzahlungstypen-enum), [Einstieg](einstieg.md#einstieg) | -                                                            | - | - | 
+| 1.  | 9.04.2023                 | Organisatorisches, [Wiederholung](wiederholung.md#datentypen), [Aufzählungstypen](enum.md#aufzahlungstypen-enum), [Einstieg](einstieg.md#einstieg) | -                                                            | - | - | 
 | 1.  | 16.04.2023                | [Wrapper-Klassen (boxing und unboxing)](wrapper.md#wrapper-klassen)<br/>[Exceptions I](exceptions.md#exceptions)| [Übung 1](uebungen.md#ubung-1-wiederholung-und-codereview)   |[Aufgabe 1](aufgaben.md#aufgabe-1-wurfelspiel) | 27.04.2023 | 
 | 2.  | 23.04.2023                | [Exceptions II](exceptions.md#die-vererbungshierarchie-der-klasse-exception) | [Übung 2](uebungen.md#ubung-2-string-und-algorithmisches-denken) |[Aufgabe 2](aufgaben.md#aufgabe-2-myinteger) | 04.05.2023 | 
 | 3.  | 30.04.2023                | [Collections (List und Set)](collections.md#collections) | [Übung 3](uebungen.md#ubung-3-exceptions)                    |[Aufgabe 3](aufgaben.md#aufgabe-3-solitaire) | 18.05.2023 | 
@@ -57,6 +58,15 @@ Nachfolgend der vorläufige Wochenplan (wird eventuell angepasst).
 | 15. | 17.07.2023                | - | -                                                            | - | - | 
 |     | wird noch bekannt gegeben | Klausur 1.PZ | Labore 6. Etage C-Gebäude            | - | - |
 |     | wird noch bekannt gegeben | Klausur 2.PZ | Labore 6. Etage C-Gebäude            | - | - |
+
+Die weitere Themen werden voraussichtlich sein:
+- git
+- Unit Tests
+- Streams & Lamdas 
+- REST-API mit Micronaut
+- Lesbarkeit & besserer Code 
+- TDD
+- Refactoring 
 
 ### Inhalte
 
