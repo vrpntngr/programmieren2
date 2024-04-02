@@ -41,21 +41,21 @@ Nachfolgend der vorläufige Wochenplan (wird angepasst).
 
 |     | Woche                     | Themen (Vorlesung) | Übung                                                        | Aufgabe | Abgabe Aufgabe bis | 
 |-----|---------------------------|--------------------|--------------------------------------------------------------|-----------------|------------------|
-| 1.  | 9.04.2023                 | Organisatorisches, [Wiederholung](wiederholung.md#datentypen), [Aufzählungstypen](enum.md#aufzahlungstypen-enum), [Einstieg](einstieg.md#einstieg) | -                                                            | - | - | 
-| 1.  | 16.04.2023                | [Wrapper-Klassen (boxing und unboxing)](wrapper.md#wrapper-klassen)<br/>[Exceptions I](exceptions.md#exceptions)| [Übung 1](uebungen.md#ubung-1-wiederholung-und-codereview)   |[Aufgabe 1](aufgaben.md#aufgabe-1-wurfelspiel) | 27.04.2023 | 
-| 2.  | 23.04.2023                | [Exceptions II](exceptions.md#die-vererbungshierarchie-der-klasse-exception) | [Übung 2](uebungen.md#ubung-2-string-und-algorithmisches-denken) |[Aufgabe 2](aufgaben.md#aufgabe-2-myinteger) | 04.05.2023 | 
-| 3.  | 30.04.2023                | [Collections (List und Set)](collections.md#collections) | [Übung 3](uebungen.md#ubung-3-exceptions)                    |[Aufgabe 3](aufgaben.md#aufgabe-3-solitaire) | 18.05.2023 | 
-| 4.  | 7.05.2023                 | [Collections (Map)](maps.md#maps) und [Abstrakte Klassen](abstrakt.md#abstrakte-klassen)| [Übung 4](uebungen.md#ubung-4-listen-und-mengen)             |[Aufgabe 4](aufgaben.md#aufgabe-4-operationen-uber-mengen) | 25.05.2023 | 
-| 5.  | 14.05.2023                | [Interfaces](interfaces.md#interfaces) | [Übung 5](uebungen.md#ubung-5-maps)                          |[Aufgabe 5](aufgaben.md#aufgabe-5-maps) | 01.06.2023 |
-| 6.  | 21.05.2023                | - | -                                                            | - | - | 
-| 7.  | 28.05.2023                | - | -                                                            | - | - | 
-| 8.  | 4.06.2023                 | - | -                                                            | - | - |  
-| 9.  | 11.06.2023                | - | -                                                            | - | - |  
-| 10. | 18.06.2023                | - | -                                                            | - | - |  
-| 12. | 25.06.2023                | - | -                                                            | - | - | 
-| 13. | 03.07.2023                | - | -                                                            | - | - | 
-| 14. | 10.07.2023                | - | -                                                            | - | - | 
-| 15. | 17.07.2023                | - | -                                                            | - | - | 
+| 1.  | 9.04.2024                 | Organisatorisches, [Wiederholung](wiederholung.md#datentypen), [Aufzählungstypen](enum.md#aufzahlungstypen-enum), [Einstieg](einstieg.md#einstieg) | -                                                            | - | - | 
+| 1.  | 16.04.2024                | [Wrapper-Klassen (boxing und unboxing)](wrapper.md#wrapper-klassen)<br/>[Exceptions I](exceptions.md#exceptions)| [Übung 1](uebungen.md#ubung-1-wiederholung-und-codereview)   |[Aufgabe 1](aufgaben.md#aufgabe-1-wurfelspiel) | 27.04.2023 | 
+| 2.  | 23.04.2024                | [Exceptions II](exceptions.md#die-vererbungshierarchie-der-klasse-exception) | [Übung 2](uebungen.md#ubung-2-string-und-algorithmisches-denken) |[Aufgabe 2](aufgaben.md#aufgabe-2-myinteger) | 04.05.2023 | 
+| 3.  | 30.04.2024                | [Collections (List und Set)](collections.md#collections) | [Übung 3](uebungen.md#ubung-3-exceptions)                    |[Aufgabe 3](aufgaben.md#aufgabe-3-solitaire) | 18.05.2023 | 
+| 4.  | 7.05.2024                 | [Collections (Map)](maps.md#maps) und [Abstrakte Klassen](abstrakt.md#abstrakte-klassen)| [Übung 4](uebungen.md#ubung-4-listen-und-mengen)             |[Aufgabe 4](aufgaben.md#aufgabe-4-operationen-uber-mengen) | 25.05.2023 | 
+| 5.  | 14.05.2024                | [Interfaces](interfaces.md#interfaces) | [Übung 5](uebungen.md#ubung-5-maps)                          |[Aufgabe 5](aufgaben.md#aufgabe-5-maps) | 01.06.2023 |
+| 6.  | 21.05.2024                | - | -                                                            | - | - | 
+| 7.  | 28.05.2024                | - | -                                                            | - | - | 
+| 8.  | 4.06.2024                 | - | -                                                            | - | - |  
+| 9.  | 11.06.2024                | - | -                                                            | - | - |  
+| 10. | 18.06.2024                | - | -                                                            | - | - |  
+| 12. | 25.06.2024                | - | -                                                            | - | - | 
+| 13. | 03.07.2024                | - | -                                                            | - | - | 
+| 14. | 10.07.2024                | - | -                                                            | - | - | 
+| 15. | 17.07.2024                | - | -                                                            | - | - | 
 |     | wird noch bekannt gegeben | Klausur 1.PZ | Labore 6. Etage C-Gebäude            | - | - |
 |     | wird noch bekannt gegeben | Klausur 2.PZ | Labore 6. Etage C-Gebäude            | - | - |
 
