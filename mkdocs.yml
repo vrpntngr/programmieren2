@@ -24,7 +24,7 @@ theme:
   features:
     - instant
     - tabs
-  favicon: img/favicon.png
+  favicon: img/fiw.png
   logo: img/fiw.jpg
 
 extra_css:
