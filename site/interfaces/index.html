@@ -728,9 +728,7 @@
 <span class="p">}</span>
 </code></pre></div></td></tr></table></div>
 <p>Die Klasse <code>Rectangle</code> erbt also von der abstrakten Klasse <code>Shape</code> und <strong>muss</strong> deshalb die Methoden <code>perimeter()</code> und <code>area()</code> implementieren. Nun geben wir an, dass <code>Rectangle</code> auch das Interface <code>Comparable</code> implementieren soll. Dazu ergänzen wir die erste Zeile um <code>implements Comparable</code>, d.h. die Klassendeklaration sieht jetzt so aus:</p>
-<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
-<span class="normal">2</span></pre></div></td><td class="code"><div><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">Rectangle</span><span class="w"> </span><span class="kd">extends</span><span class="w"> </span><span class="n">Shape</span><span class="w"> </span><span class="kd">implements</span><span class="w"> </span><span class="n">Comparable</span>
-<span class="p">{</span>
+<div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span></pre></div></td><td class="code"><div><pre><span></span><code><span class="kd">public</span><span class="w"> </span><span class="kd">class</span> <span class="nc">Rectangle</span><span class="w"> </span><span class="kd">extends</span><span class="w"> </span><span class="n">Shape</span><span class="w"> </span><span class="kd">implements</span><span class="w"> </span><span class="n">Comparable</span><span class="w"> </span><span class="p">{}</span>
 </code></pre></div></td></tr></table></div>
 <p>Wenn Sie das hinzufügen, stellen wir fest, dass ein <strong>Fehler</strong> erzeugt wird (die Klasse lässt sich nicht compilieren). Die Fehlerausgabe besagt: <code>The type Rectangle must implement the inherited abstract method Comparable.compareTo(Object)</code>. Es werden zwei <code>QuickFixes</code> angeboten, </p>
 <ul>
