@@ -289,26 +289,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../einstieg.md" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Einstieg
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../wrapper/" class="md-nav__link">
         
   
@@ -512,6 +492,26 @@
   
   
     <li class="md-nav__item">
+      <a href="../interfaces/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Interfaces
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../uebungen/" class="md-nav__link">
         
   
@@ -681,7 +681,7 @@
 <p>zurück. Lassen Sie sich von dieser kryptischen Schreibweise nicht abschrecken! Zurückgegeben wird eine <code>Set</code>. Diese ist typisiert und zwar mit dem Typ <code>Map.Entry</code>, welches der Typ eines einzelnen Schlüssel-Werte-Paares ist. <code>Map.Entry</code> ist selbst typisiert, nämlich mit dem Typ der Schlüssel <code>K</code> und dem Typ der Werte <code>V</code>. Für <code>K</code> und <code>V</code> werden bei Verwendung konkrete Typen eingesetzt. Hier sind es zunächst nur Platzhalter. </p>
 <h4 id="klassenbaum-fur-map">Klassenbaum für <code>Map</code><a class="headerlink" href="#klassenbaum-fur-map" title="Permanent link">&para;</a></h4>
 <p>Der Klassenbaum für <code>Map</code> hat Ähnlichkeiten zum Klassenbaum für <code>Collection</code>. Wir finden hier wieder grüne (Interfaces), rote (abstrakte Klassen) und blaue (konkrete Klassen) Felder.</p>
-<p><img alt="map" src="./files/45_map.png" /></p>
+<p><img alt="map" src="../files/45_map.png" /></p>
 <p>Auch hier ist es wieder so, dass wir <code>Map</code> als Typ für eine Map verwenden, aber für die Erzeugung konkreter Objekte die Klassen <code>EnumMap</code>, <code>HashMap</code> und <code>TreeMap</code> verwenden. Die am häufigsten verwendete Klasse ist <code>HashMap</code>, da sie am performantesten arbeitet. Sobald Reihenfolge/Sortierung eine Rolle spielt, wird <code>TreeMap</code> verwendet. </p>
 <h4 id="erstes-beispiel">Erstes Beispiel<a class="headerlink" href="#erstes-beispiel" title="Permanent link">&para;</a></h4>
 <p>Wir betrachten ein erstes Beispiel. Wir erstellen eine <code>HashMap</code> und fügen vier Einträge hinzu:</p>
@@ -721,9 +721,9 @@
 <li>In Zeile <code>12</code> fügen wir mithilfe der <code>put()</code>-Methode ein weiteres Schlüssel-Werte-Paar hinzu. Der Schlüssel (<em>key</em>) ist <code>"s0555555"</code>, der Wert (<em>value</em>) ist <code>3.0</code> (erneut <em>Auto-Boxing</em>). </li>
 </ul>
 <p>Nach diesen Anweisungen sieht unsere Map also wie folgt aus (die Überschriften der Tabelle dienen nur der Orientierung):</p>
-<p><img alt="map" src="./files/46_map.png" /></p>
+<p><img alt="map" src="../files/46_map.png" /></p>
 <p>Die folgende Abbildung zeigt die Methoden, um Zugriff auf die Werte, Schlüssel und alle Einträge zu erhalten:</p>
-<p><img alt="map" src="./files/47_map.png" /></p>
+<p><img alt="map" src="../files/47_map.png" /></p>
 <p>Die Anwendung dieser Methoden auf unsere Map <code>m</code> zeigen die folgenden Anweisungen:</p>
 <div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
 <span class="normal">2</span>

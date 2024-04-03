@@ -1,7 +1,7 @@
 # Wrapper-Klassen
 
 !!! success "Motivation"
-	[Letzte Woche](einstieg.md#ausblick) haben wir mit folgender Fragestellung geendet: Wie wandeln wir einen `String` zu einem `int` (oder `double`) um? Die Antwort, die uns den Ausblick auf das Thema der heutigen Woche gibt, war: **mit Wrapper-Klassen**.
+	Letzte Woche haben wir mit folgender Fragestellung geendet: Wie wandeln wir einen `String` zu einem `int` (oder `double`) um? Die Antwort, die uns den Ausblick auf das Thema der heutigen Woche gibt, war: **mit Wrapper-Klassen**.
 
 In Programmierung I haben wir am Anfang die Datentypen `int`, `boolean`, `double`, `char`, `long` usw. kennengelernt. Wir haben diese Datentypen als *Wertetypen* kennenglernt, denn sie können nur Werte abbilden. Das Gegenstück dazu sind *Referenztypen*, welche Referenzen auf Objekte repräsentieren. Für jeden Wertetyp gibt es aber auch einen entsprechenden Referenztyp, die sogenannten *Wrapper-Klassen*. Diese sind `Integer`, `Double`, `Float`, `Short`, `Byte`, `Long`, `Character` und `Boolean` und befinden sich im `java.lang`-Paket (also dem Standardpaket von Java - muss nicht importiert werden). Wir werden diese Wrapper-Klassen dieses Semester häufiger verwenden, insbesondere wenn wir *Collections* kennenlernen. 
 
