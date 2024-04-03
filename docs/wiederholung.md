@@ -410,5 +410,5 @@ Weitere interessante Methoden dieser Klasse sind `copyOf()`, `binarySearch()` un
 
 
 ??? "Übung"
-Ist die `toString()`-Methode der `Arrays`-Klasse statisch oder handelt es sich um eine Objektmethode?
+		Ist die `toString()`-Methode der `Arrays`-Klasse statisch oder handelt es sich um eine Objektmethode?
 
