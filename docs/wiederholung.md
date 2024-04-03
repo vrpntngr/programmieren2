@@ -36,6 +36,7 @@
 - Zugriff auf Methoden und Variablen über den Punkt-Operator
 
 === "Beispiele Referenztypen"
+
 ```java
 	// Schluesselwort class um neue Klasse (Typ) zu definieren
 	public class Power
@@ -57,7 +58,7 @@
 		}
 	
 		// irgendwo im Hauptprogramm
-		public static void main(String[] args) 
+		public static void main(String[] args)
 		{
 			Power p1 = new Power(2,4);
 			Power p2 = new Power(2,4);
