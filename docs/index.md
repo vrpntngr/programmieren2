@@ -17,9 +17,9 @@ Viel Erfolg! Und viel Spaß!
 Der Plan zur Durchführung der Veranstaltung ist derzeit wie folgt:
 
 - Einige der Themen werden ausführlich in diesem Skript beschrieben und in den Vorlesungen eingeführt und verdeutlicht.
-- Für die anderen Themen werden sie Skripte kürzer ausfallen und dafür mich Links vervollständigt.  
+- Für die anderen Themen wird es keine Skripte geben. Es wird Folien und Links zu den Themen geben.  
 - Die Veranstaltungen finden in Präsenz statt. Es werden keine Videos erstellt.
-- Das Skript wird für die jeweilige Woche montags hochgeladen.
+- Das Skript/ die Folien werden für die jeweilige Woche montags hochgeladen.
 - Mit dem Skript wird sowohl die Übung für die Woche als auch die neue Aufgabe hochgeladen.
 - Die Übung (und die vergangene Aufgabe) werden dienstags (09:45 - 11:15 bzw. 12:15 - 13:45 Uhr) besprochen. Sie können frei wählen, welche der beiden Übungen Sie besuchen.
 - Die Veranstaltung wird durch ein Tutorium unterstützt. Der Termin für das Tutorium wird noch bekanntgegeben.
