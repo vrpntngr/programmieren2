@@ -27,7 +27,7 @@
 	// float und double für Fließkommazahlen
 	float f = 0.0f; 		// Wird mit 0.0 initialisiert
 	double d = 100.25; 		// Dezimalpunkt statt Dezimalkomma!!
- ```
+```
 
 ### Referenztypen
 
