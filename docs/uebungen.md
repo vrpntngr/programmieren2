@@ -1,75 +1,32 @@
 # Übungen
 
 
-##### Übung 1 (Codereview und static)
+##### Übung 1 (Fizz Buzz)
 
-??? "Was ist an diesem Code alles falsch?"
-
-	```java
-	package uebungen.uebung1;
-
-	/*
-	 * °C = (°F - 32) * 5/9 (von Fahrenheit in Celsius)
-	 * °F = °C * 1,8 + 32 (von Celsius nach Fahrenheit)
-	 */
-
-	public class Konvertierung {
-		
-		private double celsius;
-		private double fahrenheit;
-		
-		public Konvertierung(double celsius) 
-		{		
-			this.celsius = celsius;
-			this.fahrenheit = celsius * 1.8 + 32;		
-		}
-		
-		public Konvertierung(double fahrenheit) 
-		{		
-			this.celsius = fahrenheit - 32 * 5/9;
-			this.fahrenheit = fahrenheit;		
-		}
-		
-		public void print()
-		{
-			System.out.println(this.celsius + "\u00B0C = " + this.fahrenheit + "\u00B0F");
-		}
-	}
-	```
+??? "Fizz Buzz"
+    
+    Schreiben Sie ein Programm, welches von 1 bis 100 zählt.
+    Wenn eine Zahl durch 3 teilbar ist ersetzen Sie die Zahl durch “Fizz”, wenn die Zahl durch 5 teilbar ist “Buzz” und wenn die Zahl durch 3 und 5 teilbar ist “Fizz Buzz”.
+    Ausgabe sollte ungefähr so ausssegen 
+    
+    ```
+        1
+        2
+        Fizz
+        4
+        Buzz
+        ...
+        14
+        Fizz Buzz
+        16
+        ...
+    ```
+    
+    Mit Fizz Buzz fertig? 
+    Dann üben Sie weiter bei https://codingbat.com/java
+    Beginnen Sie mit dem Warmup-1 und machen Sie mit Logic-1 weiter.
 
 
 ??? success "Eine mögliche Lösung für Übung 1"
-```java
-package uebungen.uebung1;
+    TODO 
 
-	/*
-	 * °C = (°F - 32) * 5/9 (von Fahrenheit in Celsius)
-	 * °F = °C * 1,8 + 32 (von Celsius nach Fahrenheit)
-	 */
-
-	public class Konvertierung {
-
-		private Konvertierung() {
-			
-		}
-	    
-	    public static double celsiusToFahrenheit(double celsius) {
-	    	final double FACTOR_CELSIUS_TO_FAHRENHEIT = 1.8;
-	    	final int DIFFERENCE_CELSIUS_TO_FAHRENHEIT = 32;
-	    	
-	    	double fahrenheit = celsius * FACTOR_CELSIUS_TO_FAHRENHEIT 
-	    			+ DIFFERENCE_CELSIUS_TO_FAHRENHEIT; 
-	    	
-	    	return fahrenheit;
-	    }
-	    
-	    public static double fahrenheitToCelsius(double fahrenheit) {
-	    	final double FACTOR_FAHRENHEIT_TO_CELSIUS = 5.0/9.0;
-	    	final int DIFFERENCE_FAHRENHEIT_TO_CELSIUS = 32;
-	    	
-	    	double celsius = (fahrenheit - DIFFERENCE_FAHRENHEIT_TO_CELSIUS) * FACTOR_FAHRENHEIT_TO_CELSIUS;
-	   
-	    	return celsius;
-	    }
-	}
-	```
