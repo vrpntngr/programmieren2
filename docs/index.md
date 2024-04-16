@@ -68,6 +68,9 @@ Die weitere Themen werden voraussichtlich sein:
 - TDD
 - Refactoring 
 
-### Inhalte
+### Themen die noch fehlen
+- switch () case 
+- abstract 
+- for each-Schleife
 
 
