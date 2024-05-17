@@ -47,7 +47,7 @@ Nachfolgend der vorläufige Wochenplan (wird angepasst).
 | 4.  | 30.04.2024                | [Exceptions II](exceptions.md#die-vererbungshierarchie-der-klasse-exception)                                     | 
 | 5.  | 7.5.2024                  | [Collections (List und Set)](collections.md#collections)                                                         |                                                         
 | 6.  | 14.05.2024                | [Collections (Map)](maps.md#maps)                                                                                |  
-| 7.  | 21.05.2024                |                                                                                                                  |                                                     
+| 7.  | 21.05.2024                | [Junit](junit.md)                                                                                                |                                                     
 | 8.  | 28.05.2024                | -                                                                                                                |                                      
 | 9.  | 4.06.2024                 | -                                                                                                                |   
 | 10. | 11.06.2024                | -                                                                                                                |                   
