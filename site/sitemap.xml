@@ -2,62 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://vrpntngr.github.io/programmieren2/</loc>
-         <lastmod>2024-04-23</lastmod>
+         <lastmod>2024-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vrpntngr.github.io/programmieren2/abstrakt/</loc>
-         <lastmod>2024-04-23</lastmod>
+         <lastmod>2024-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vrpntngr.github.io/programmieren2/aufgaben/</loc>
-         <lastmod>2024-04-23</lastmod>
+         <lastmod>2024-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vrpntngr.github.io/programmieren2/collections/</loc>
-         <lastmod>2024-04-23</lastmod>
+         <lastmod>2024-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vrpntngr.github.io/programmieren2/enum/</loc>
-         <lastmod>2024-04-23</lastmod>
+         <lastmod>2024-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vrpntngr.github.io/programmieren2/exceptions/</loc>
-         <lastmod>2024-04-23</lastmod>
+         <lastmod>2024-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vrpntngr.github.io/programmieren2/git/</loc>
-         <lastmod>2024-04-23</lastmod>
+         <lastmod>2024-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vrpntngr.github.io/programmieren2/interfaces/</loc>
-         <lastmod>2024-04-23</lastmod>
+         <lastmod>2024-05-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://vrpntngr.github.io/programmieren2/junit/</loc>
+         <lastmod>2024-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vrpntngr.github.io/programmieren2/maps/</loc>
-         <lastmod>2024-04-23</lastmod>
+         <lastmod>2024-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vrpntngr.github.io/programmieren2/uebungen/</loc>
-         <lastmod>2024-04-23</lastmod>
+         <lastmod>2024-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vrpntngr.github.io/programmieren2/wiederholung/</loc>
-         <lastmod>2024-04-23</lastmod>
+         <lastmod>2024-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vrpntngr.github.io/programmieren2/wrapper/</loc>
-         <lastmod>2024-04-23</lastmod>
+         <lastmod>2024-05-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

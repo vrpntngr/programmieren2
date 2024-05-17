@@ -39,26 +39,29 @@ Wir beschäftigen uns dieses Semester mit weiteren Konzepten der Programmierung.
 
 Nachfolgend der vorläufige Wochenplan (wird angepasst).
 
-|     | Woche                     | Themen (Vorlesung)                                                                                               | Übung                                                      | Aufgabe                                        | Abgabe Aufgabe bis | 
-|-----|---------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------|--------------------|
-| 1.  | 9.04.2024                 | Organisatorisches, [Wiederholung](wiederholung.md#datentypen), [Aufzählungstypen](enum.md#aufzahlungstypen-enum) | -                                                          |  -                                             | -                  | 
-| 2.  | 16.04.2024                | [Wrapper-Klassen (boxing und unboxing)](wrapper.md#wrapper-klassen)<br/>[Exceptions I](exceptions.md#exceptions) | [Übung 1](uebungen.md#ubung-1-wiederholung-und-codereview) | [Aufgabe 1](aufgaben.md#aufgabe-1-wurfelspiel) | 26.4.2024          |
-| 4.  | 23.04.2024                | Game of Life                                                                                                     | -                                                          | Game of Life selbstständig programmieren       | 3.5.2024           |
-| 4.  | 30.04.2024                | [Exceptions II](exceptions.md#die-vererbungshierarchie-der-klasse-exception)                                     | -                                                          | -                                              |                    |
-| 5.  | 7.5.2024                  | [Collections (List und Set)](collections.md#collections)                                                         | -                                                          | -                                              | -                  | 
-| 6.  | 14.05.2024                | [Collections (Map)](maps.md#maps) und [Abstrakte Klassen](abstrakt.md#abstrakte-klassen)                         | -                                                          | -                                              | -                  | 
-| 7.  | 21.05.2024                | [Interfaces](interfaces.md#interfaces)                                                                           | -                                                          | -                                              | -                  |
-| 8.  | 28.05.2024                | -                                                                                                                | -                                                          | -                                              | -                  | 
-| 9.  | 4.06.2024                 | -                                                                                                                | -                                                          | -                                              | -                  |  
-| 10. | 11.06.2024                | -                                                                                                                | -                                                          | -                                              | -                  |  
-| 11. | 18.06.2024                | -                                                                                                                | -                                                          | -                                              | -                  |  
-| 12. | 25.06.2024                | -                                                                                                                | -                                                          | -                                              | -                  | 
-| 13. | 03.07.2024                | -                                                                                                                | -                                                          | -                                              | -                  | 
-| 14. | 10.07.2024                | -                                                                                                                | -                                                          | -                                              | -                  | 
-| 15. | 17.07.2024                | -                                                                                                                | -                                                          | -                                              | -                  | 
-|     | wird noch bekannt gegeben | Klausur 1.PZ                                                                                                     | Labore 6. Etage C-Gebäude                                  | -                                              | -                  |
-|     | wird noch bekannt gegeben | Klausur 2.PZ                                                                                                     | Labore 6. Etage C-Gebäude                                  | -                                              | -                  |
+|     | Woche                     | Themen (Vorlesung)                                                                                               | 
+|-----|---------------------------|------------------------------------------------------------------------------------------------------------------|
+| 1.  | 9.04.2024                 | Organisatorisches, [Wiederholung](wiederholung.md#datentypen), [Aufzählungstypen](enum.md#aufzahlungstypen-enum) |
+| 2.  | 16.04.2024                | [Wrapper-Klassen (boxing und unboxing)](wrapper.md#wrapper-klassen)<br/>[Exceptions I](exceptions.md#exceptions) | 
+| 4.  | 23.04.2024                | Game of Life                                                                                                     | 
+| 4.  | 30.04.2024                | [Exceptions II](exceptions.md#die-vererbungshierarchie-der-klasse-exception)                                     | 
+| 5.  | 7.5.2024                  | [Collections (List und Set)](collections.md#collections)                                                         |                                                         
+| 6.  | 14.05.2024                | [Collections (Map)](maps.md#maps)                                                                                |  
+| 7.  | 21.05.2024                |                                                                                                                  |                                                     
+| 8.  | 28.05.2024                | -                                                                                                                |                                      
+| 9.  | 4.06.2024                 | -                                                                                                                |   
+| 10. | 11.06.2024                | -                                                                                                                |                   
+| 11. | 18.06.2024                | -                                                                                                                | 
+| 12. | 25.06.2024                | -                                                                                                                | 
+| 13. | 03.07.2024                | -                                                                                                                | 
+| 14. | 10.07.2024                | -                                                                                                                |        
+| 15. | 17.07.2024                | -                                                                                                                |  
+|     | wird noch bekannt gegeben | Klausur 1.PZ - Labore 6. Etage C-Gebäude                                                                         |                
+|     | wird noch bekannt gegeben | Klausur 2.PZ -Labore 6. Etage C-Gebäude                                                                          |                
 
+Kommt noch:
+- [Abstrakte Klassen](abstrakt.md#abstrakte-klassen)
+- [Interfaces](interfaces.md#interfaces)     
 Die weitere Themen werden voraussichtlich sein:
 - git
 - Unit Tests
