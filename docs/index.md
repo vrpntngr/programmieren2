@@ -49,8 +49,8 @@ Nachfolgend der vorläufige Wochenplan (wird angepasst).
 | 6.  | 14.05.2024                | [Collections (Map)](maps.md#maps)                                                                                |  
 | 7.  | 21.05.2024                | [Junit](junit.md)                                                                                                |                                                     
 | 8.  | 28.05.2024                | Testen mit Mockito                                                                                               |                                      
-| 9.  | 4.06.2024                 | [Abstrakte Klassen](abstrakt.md#abstrakte-klassen) und [Interfaces](interfaces.md#interfaces)                    |   
-| 10. | 11.06.2024                | Maven & Git                                                                                                      |                   
+| 9.  | 4.06.2024                 | [Abstrakte Klassen](abstrakt.md#abstrakte-klassen) und [Interfaces](interfaces.md#interfaces)                                                                           |   
+| 10. | 11.06.2024                | -                                                                                                                |                   
 | 11. | 18.06.2024                | -                                                                                                                | 
 | 12. | 25.06.2024                | -                                                                                                                | 
 | 13. | 03.07.2024                | -                                                                                                                | 
